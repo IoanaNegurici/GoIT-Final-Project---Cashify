@@ -12,5 +12,9 @@ within GoIT, regarding manual testing. As a student within GoIT I designed and c
 <br> • **Quality Assurance:** I ensured about the quality of our work before submission or delivery. Also gave consistent feedbacks to the team and helped them when needed.
 <br>
 <br> The final project was about testing a money management app, compatible for both Web and Mobile devices. With **Cashify** you can successfully track income, expenses and generate detailed reports based on them. 
-<br> Project Link
-
+<br>
+<br>
+<br> **<a href="https://docs.google.com/spreadsheets/d/1ng6irs7WQObUMlF4frjzgjQfPuseU5TbbHI929zPq8M/edit#gid=0)https://docs.google.com/spreadsheets/d/1ng6irs7WQObUMlF4frjzgjQfPuseU5TbbHI929zPq8M/edit#gid=0">Project Link and Documentation</a>**
+<br>
+<br> **Being a student at GoIT was a really valuable learning opportunity for me, and I am sure that my journey as a QA Engineer will be at least as challenging as this was.**
+<br> **Thank you for the interest showed and feel free to contact me when needed.:)**
